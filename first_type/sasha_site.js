@@ -1,0 +1,1 @@
+const x = async function ay(){}
